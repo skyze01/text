@@ -1,5 +1,4 @@
 # text
-
 class Skzye {
     constructor(options) {
         this.name = "Can",
